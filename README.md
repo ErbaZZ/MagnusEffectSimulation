@@ -1,3 +1,2 @@
-# ITCS161_Project01
-Physical Science and Computation project written in Python.
-This is a rough simulation of the Magnus Effect on a spinning basketball.
+# Magnus Effect Simulation Using VPython
+This project is inspired by a YouTube video named “What Happens When a Spinning Basketball is Thrown Off a Dam!” (https://www.youtube.com/watch?v=QtP_bh2lMXc). It is a simulation of the motion of the basketball being affected by the Magnus force and air drag, and compare it to the path of the ball travelling in vacuum (theoretical path). This simulation and every objects in this simulation, including the pattern of the basketball and the controls window, is made by using VPython solely without any other external library. The user can adjust the starting velocity and the angular velocity of the basketball in all 3 axes. After adjusting, the user can start the simulation by pressing the “Launch” button. After starting, the simulation will start moving the basketball and create graphs showing the velocity, drag force and the Magnus force acting on the object in 3 axes, x, y, and z.
